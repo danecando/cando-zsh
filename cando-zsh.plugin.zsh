@@ -1,3 +1,5 @@
-alias hosts='sudo vim /private/etc/hosts'
+alias hosts="sudo vim /private/etc/hosts"
 alias gitnvm="git reset --soft HEAD~1"
 alias resh="exec zsh -l"
+alias rmnm="rm -rf node_modules"
+alias rmnmm="rm -rf node_modules package.lock yarn.lock"
