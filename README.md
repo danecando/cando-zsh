@@ -1,4 +1,4 @@
 cando-zsh
 =================
 
-my custom shiz as a oh-my-zsh plugin
+my custom shiz as an oh-my-zsh plugin
